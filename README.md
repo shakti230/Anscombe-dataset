@@ -64,8 +64,7 @@ data = [['Mean of x in each case:','9 (exact).'],
 pd.DataFrame(data, columns=["Property", "Value"])
 
 Output:
-![image](https://github.com/shakti230/anscombe-dataset/issues/1#issue-379190066.png)
-https://user-images.githubusercontent.com/36244887/48268947-53c75100-e42e-11e8-98d2-fcfa8dae8e3d.JPG
+![image](https://user-images.githubusercontent.com/36244887/48268947-53c75100-e42e-11e8-98d2-fcfa8dae8e3d.JPG)
     
 ### 2.3 Calculate the descriptive statistics of the variables in the dataset.
 
