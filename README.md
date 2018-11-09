@@ -33,6 +33,9 @@ Some of the popular libraries used for simple random data anslysis, permutations
 - Seaborn
 - Pandas
 
+### Project Plan
+![image](https://user-images.githubusercontent.com/36244887/48293746-7716ee00-e478-11e8-962e-ac31ce0c6037.JPG)
+
 ### 2.0 Assignment Questions:
 ### 2.1 Explain the background to the dataset – who created it, when it was created, and any speculation you can find regarding how it might have been created.
 
