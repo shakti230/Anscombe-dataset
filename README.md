@@ -53,10 +53,18 @@ anscombe = sns.load_dataset("anscombe")
 df = sns.load_dataset("anscombe")
 df
 
+Input:
+#### Display the properties and associated value of each in a table.
+data = [['Mean of x in each case:','9 (exact).'], 
+        ['Variance of x in each case:','11 (exact).'],
+        ['Mean of y in each case:','7.50 (to 2 decimal places).' ],
+        ['Variance of y in each case:','4.122 or 4.127 (to 3 decimal places).' ],  
+        ['Correlation between x and y in each case:','0.816 (to 3 decimal places).'],
+       ['Linear regression line in each case:', 'y = 3.00 + 0.500x (to 2 and 3 decimal places).']]
+pd.DataFrame(data, columns=["Property", "Value"])
 
-
-
-
+Output:
+properties table
 
 ### 2.3 Calculate the descriptive statistics of the variables in the dataset.
 
