@@ -1,6 +1,8 @@
+<p align="center">
 # Fundamentals of Data Analysis
 # An analysis of Anscombe's dataset
 # Mary McDonagh
+</p>
 
 ### Table of Contents
 - 1.0 Investigation
