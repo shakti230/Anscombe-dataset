@@ -37,6 +37,8 @@ In 1973, Francis J. Anscombe constructed the Anscombe's quartet dataset. It is c
 Anscombe published a paper in 1973 titled "Graphs in Statistical Analysis". This was published in The American Statistician, Vol. 27, No. 1. (Feb., 1973), pp. 17-21, statistician Francis Anscombe provided the briefiest of abstracts: "Graphs are essential to good statistical analysis". At the time John Tukey had establised the idea of using graphical methods but there was a large amount of skepticism around this. 
 Anscombe listed some premises that at the time textbooks were “indoctrinating” people with, like the idea that “numerical calculations are exact, but graphs are rough.” Following on from this he presented a table of numbers. This is where the quartet came about. The table contained four distinct datasets (hence the name Anscombe’s Quartet), each with statistical properties that are identical(to two decimal places), the mean of the x values is 9.0, mean of y values is 7.5, they all have nearly identical variances, correlations, and regression lines (to at least two decimal places).
 
+![image](https://user-images.githubusercontent.com/36244887/48272212-018a2e00-e436-11e8-861c-eefd3d06331b.JPG)
+
 ### 2.2 Plot the interesting aspects of the dataset.
 
 All four plots have the same mean, variance and correlation values.
