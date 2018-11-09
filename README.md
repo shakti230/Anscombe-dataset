@@ -72,7 +72,9 @@ data = [['Mean of x in each case:','9 (exact).'],
 pd.DataFrame(data, columns=["Property", "Value"])
 
 Output:
+<p align="center">
 ![image](https://user-images.githubusercontent.com/36244887/48268947-53c75100-e42e-11e8-98d2-fcfa8dae8e3d.JPG)
+</p>
     
 Input:
 anscombe = sns.load_dataset("anscombe")
