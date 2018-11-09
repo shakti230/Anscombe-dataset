@@ -302,6 +302,7 @@ Output:
 
 Input:
 #Display the Anscombe's quartet (four datasets) in a table
+
 anscombes_data = {'X1':[10,8,13,9,11,14,6,4,12,7,5],
             'X2': [10,8,13,9,11,14,6,4,12,7,5],
             'X3': [10,8,13,9,11,14,6,4,12,7,5],
