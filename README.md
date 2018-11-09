@@ -1,7 +1,9 @@
-<p align="center">
-# Fundamentals of Data Analysis
-# An analysis of Anscombe's dataset
-# Mary McDonagh
+<p align="center">           
+
+<h1><b>Project 2018</b><br></h1>
+<h2>Fundamentals of Data Analysis - Mary McDonagh</h2>
+<h2>An analysis of Anscombe's dataset</h2>
+</br>
 </p>
 
 ### Table of Contents
