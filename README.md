@@ -63,8 +63,8 @@ data = [['Mean of x in each case:','9 (exact).'],
        ['Linear regression line in each case:', 'y = 3.00 + 0.500x (to 2 and 3 decimal places).']]
 pd.DataFrame(data, columns=["Property", "Value"])
 
-Output:https://github.com/shakti230/anscombe-dataset/issues/1#issue-379190066
-              
+Output:
+![image](https://github.com/shakti230/anscombe-dataset/issues/1#issue-379190066.png)
 
     
 ### 2.3 Calculate the descriptive statistics of the variables in the dataset.
